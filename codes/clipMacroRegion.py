@@ -1,1 +1,0 @@
-gdalwarp -overwrite -t_srs EPSG:4326 -of GTiff -cutline "C:/Users/gorge/Documents/QGIS/AEA 2022/ide_1102_mg_mesorregioes_ibge_pol.shp" -cl ide_1102_mg_mesorregioes_ibge_pol -crop_to_cutline "C:/Users/gorge/Documents/QGIS/AEA 2022/mapbiomas-brazil-collection-60-minasgerais-1985.tif" "C:/Users/gorge/Documents/QGIS/AEA 2022/mapbiomas85Norte.tif"
